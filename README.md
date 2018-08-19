@@ -10,4 +10,4 @@ It's possible to win by giving yourself a lot of guesses, or by playing on easy 
 
 You could store the dictionary was a linked list, which would get you a C, or an AVL tree (self-balancing binary search tree), which
 would get you an A.  I first used the linked list to make sure I had the logic of the game correct, and then implemented the
-AVL tree.
+AVL tree.  I thought that I had the AVL tree implementation saved, but I think I might have lost it when my last laptop died.
